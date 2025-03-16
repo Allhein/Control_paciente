@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Control_PacientesDB
+build_property.RootNamespace = Control_PacientesDB
+build_property.ProjectDir = C:\Users\mf226\Downloads\ControlP\Control_PacientesDB\Control_PacientesDB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mf226\Downloads\ControlP\Control_PacientesDB\Control_PacientesDB
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Cirugias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lydWdpYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Cirugias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lydWdpYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Cirugias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lydWdpYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Cirugias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lydWdpYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Cirugias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lydWdpYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Diagnosticoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Diagnosticoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Diagnosticoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Diagnosticoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Diagnosticoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Pacientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Pacientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Pacientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Pacientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Pacientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Seguimientos_PostOperatorios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndWltaWVudG9zX1Bvc3RPcGVyYXRvcmlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Seguimientos_PostOperatorios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndWltaWVudG9zX1Bvc3RPcGVyYXRvcmlvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Seguimientos_PostOperatorios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndWltaWVudG9zX1Bvc3RPcGVyYXRvcmlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Seguimientos_PostOperatorios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndWltaWVudG9zX1Bvc3RPcGVyYXRvcmlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Seguimientos_PostOperatorios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndWltaWVudG9zX1Bvc3RPcGVyYXRvcmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mf226/Downloads/ControlP/Control_PacientesDB/Control_PacientesDB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ho81z5elcd

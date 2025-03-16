@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mf226\\Downloads\\ControlP\\Control_PacientesDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F77B4B-2B05-4272-A6EC-6EEBED84A0BF}|Control_PacientesDB\\Control_PacientesDB.csproj|c:\\users\\mf226\\downloads\\controlp\\control_pacientesdb\\control_pacientesdb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80F77B4B-2B05-4272-A6EC-6EEBED84A0BF}|Control_PacientesDB\\Control_PacientesDB.csproj|solutionrelative:control_pacientesdb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F77B4B-2B05-4272-A6EC-6EEBED84A0BF}|Control_PacientesDB\\Control_PacientesDB.csproj|c:\\users\\mf226\\downloads\\controlp\\control_pacientesdb\\control_pacientesdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80F77B4B-2B05-4272-A6EC-6EEBED84A0BF}|Control_PacientesDB\\Control_PacientesDB.csproj|solutionrelative:control_pacientesdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mf226\\Downloads\\ControlP\\Control_PacientesDB\\Control_PacientesDB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control_PacientesDB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mf226\\Downloads\\ControlP\\Control_PacientesDB\\Control_PacientesDB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Control_PacientesDB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:57:53.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\mf226\\Downloads\\ControlP\\Control_PacientesDB\\Control_PacientesDB\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Control_PacientesDB\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\mf226\\Downloads\\ControlP\\Control_PacientesDB\\Control_PacientesDB\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Control_PacientesDB\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T15:30:22.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
